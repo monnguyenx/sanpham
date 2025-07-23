@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SanPham</string>
+    <string name="todo">TODO</string>
+    <string name="mota">Mô tả</string>
+    <string name="tensanpham">Tên sản phẩm</string>
+    <string name="gia">Giá</string>
+</resources>
