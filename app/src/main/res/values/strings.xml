@@ -4,4 +4,5 @@
     <string name="mota">Mô tả</string>
     <string name="tensanpham">Tên sản phẩm</string>
     <string name="gia">Giá</string>
+    <string name="chuaco">Chưa có sản phẩm</string>
 </resources>

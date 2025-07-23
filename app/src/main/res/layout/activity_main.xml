@@ -12,6 +12,16 @@
         android:layout_height="wrap_content"
         android:queryHint="Tìm kiếm sản phẩm" />
 
+    <TextView
+        android:id="@+id/tvEmpty"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/chuaco"
+        android:textAlignment="center"
+        android:textSize="16sp"
+        android:visibility="gone"
+        android:padding="16dp"/>
+
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerView"
         android:layout_width="match_parent"
